@@ -16,7 +16,7 @@ O jogo roda no terminal, utilizando a função "print" da linguagem Python.
 
 Running
 
-Execute o arquivo "init.py".
+Execute o arquivo "Sudoku.py".
 
 ### License
 
